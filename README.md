@@ -6,7 +6,7 @@
 
 </div>
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Skill](https://img.shields.io/badge/Skill-blue) ![Compatible](https://img.shields.io/badge/Claude%20Code-blue) ![skills.sh Compatible](https://img.shields.io/badge/skills.sh-accepted-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
 
 ```bash
 npx skills add chenhe-777/zhangzhe-skill
