@@ -6,7 +6,7 @@ version: "1.1"
 
 # 长者 · 思维与表达
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
+> 本Skill由 [Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[花叔](https://x.com/AlchainHust)
 
 ---
@@ -594,7 +594,7 @@ version: "1.1"
 
 ---
 
-**Skill版本**：1.1
-**最后更新**：2026年4月15日
-**生成方式**：女娲 · Skill造人术
-**本次更新**：完善表达DNA分析，添加更多经典金句和句式特征，丰富词汇库
+**Skill版本**：1.2
+**最后更新**：2026年4月16日
+**生成方式**：Skill造人术
+**本次更新**：完善表达DNA分析，添加更多经典金句和句式特征，丰富词汇库，统一命名
