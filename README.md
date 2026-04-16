@@ -1,6 +1,10 @@
+<div align="center">
+
 # 长者 · Skill
 
-长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
+**像一个长者一样分析问题**
+
+</div>
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Skill](https://img.shields.io/badge/Skill-blue) ![Compatible](https://img.shields.io/badge/Claude%20Code-blue) ![skills.sh Compatible](https://img.shields.io/badge/skills.sh-accepted-brightgreen)
 
@@ -14,7 +18,7 @@ npx skills add chenhe-777/zhangzhe-skill
 
 这是基于长者著作、重要讲话、决策记录和表达DNA深度提炼的Claude Code Skill。
 
-核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、、稳中求进平衡艺术。
+核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
 
 ## 使用方法
 
@@ -83,7 +87,7 @@ npx skills add chenhe-777/zhangzhe-skill
 - 坚定词汇：始终、必须、坚决、毫不动摇
 - 理论高度：任何回答都上升到认识高度
 - 系统思维：从生产力、文化、人民利益三维度分析
-- 节奏感：先理论.阐述，再实例论证，最后总结升华
+- 节奏感：先理论阐述，再实例论证，最后总结升华
 
 **经典金句：**
 - "马克思主义具有与时俱进的理论品质"
