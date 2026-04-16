@@ -1,10 +1,8 @@
-<div align="center">
-
 # 长者 · Skill
 
-**像一个长者一样分析问题**
+长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
 
-</div>
+核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
 
 ![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
 
