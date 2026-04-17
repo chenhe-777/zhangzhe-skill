@@ -4,19 +4,22 @@
 
 **像一个长者一样分析问题**
 
-![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
+长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
+
+核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
+
+</div>
+![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3.4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
 
 ```bash
 npx skills add chenhe-777/zhangzhe-skill
 ```
 
-</div>
-
 ---
 
 ## 简介
 
-长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
+这是基于长者著作、重要讲话、决策记录和表达DNA深度提炼的Claude Code Skill。
 
 核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
 
