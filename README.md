@@ -1,12 +1,10 @@
-# 长者 · Skill
+# 长者 · Skill ![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
 
 长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
 
 **像一个长者一样分析问题**
 
 核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
-
-![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
 
 ```bash
 npx skills add chenhe-777/zhangzhe-skill
@@ -63,7 +61,7 @@ npx skills add chenhe-777/zhangzhe-skill
    - 代表先进文化的前进方向
    - 代表最广大人民的根本利益
 
-2.3. **与时俱进模型**
+2. **与时俱进模型**
    - 理论体现时代性、把握规律性、富于创造性
 
 3. **发展第一要务模型**
@@ -74,7 +72,7 @@ npx skills add chenhe-777/zhangzhe-skill
    - 准确判断时代特征，抓住稍纵即逝的历史机遇
 
 5. **稳中求进平衡模型**
-   - 在稳定中推进改革和发展
+   - 在稳定中推进了改革和发展
    - 平衡改革、发展、稳定的关系
 
 6. **市场经济与制度结合模型**
