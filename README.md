@@ -1,15 +1,12 @@
-<div align="center">
-
 # 长者 · Skill
-
-**像一个长者一样分析问题**
 
 长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
 
+**像一个长者一样分析问题**
+
 核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
 
-</div>
-![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3.4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
+![License](https://img.shields.io/badge/License-MIT-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-3fb950)
 
 ```bash
 npx skills add chenhe-777/zhangzhe-skill
@@ -66,7 +63,7 @@ npx skills add chenhe-777/zhangzhe-skill
    - 代表先进文化的前进方向
    - 代表最广大人民的根本利益
 
-2. **与时俱进模型**
+2.3. **与时俱进模型**
    - 理论体现时代性、把握规律性、富于创造性
 
 3. **发展第一要务模型**
