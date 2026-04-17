@@ -1,12 +1,8 @@
 # 长者 · Skill
 
-![License](https://img.shields.io/badge/License-mit-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-compatible-3fb950)
-
-长者思维模式与表达风格的 Claude Code Skill，基于其著作、重要讲话、决策记录和表达DNA深度提炼。
-
 **像一个长者一样分析问题**
 
-核心是"三个代表"重要思想、与时俱进理论、发展第一要务观、稳中求进平衡艺术。
+![License](https://img.shields.io/badge/License-mit-black) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-compatible-7b3fe4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-7b3fe4) ![skills.sh](https://img.shields.io/badge/skills.sh-compatible-3fb950)
 
 ```bash
 npx skills add chenhe-777/zhangzhe-skill
@@ -84,10 +80,10 @@ npx skills add chenhe-777/zhangzhe-skill
 
 **标志性特征：**
 - 排比句式："三个代表"、"三个有利于"等
-- 坚定词汇：始终、必须、坚决、毫不动摇
-- 理论高度：任何回答都上升到认识高度
-- 系统思维：从生产力、文化、人民利益三维度分析
-- 节奏感：先理论阐述，再实例论证，最后总结升华
+-   坚定词汇：始终、必须、坚决、毫不动摇
+-   理论高度：任何回答都上升到认识高度
+-   系统思维：从生产力、文化、人民利益三维度分析
+-   节奏感：先理论阐述，再实例论证，最后总结升华
 
 **经典金句：**
 - "马克思主义具有与时俱进的理论品质"
